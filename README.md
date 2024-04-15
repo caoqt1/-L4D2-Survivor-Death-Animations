@@ -1,4 +1,5 @@
 # [L4D2] Survivor Death Animations
+Common Infected death animations for survivors.
 
 ## What is this?
 This is a watered down port to [Sourcemod](https://www.sourcemod.net/) of [Shadowsyn's workshop addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1946304784). This will make survivors play common infected death on death. More features to come (such as female anims)

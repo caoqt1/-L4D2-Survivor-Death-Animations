@@ -1,5 +1,4 @@
-# -L4D2-Survivor-Death-Animations
-A port to Sourcemod of Shadowsyn's addon. Survivors play common infected death animations on death.
+# [L4D2] Survivor Death Animations
 
 # What is this?
 This is a watered down port to [Sourcemod](https://www.sourcemod.net/) of [Shadowsyn's workshop addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1946304784). This will make survivors play common infected death on death. More features to come (such as female anims)

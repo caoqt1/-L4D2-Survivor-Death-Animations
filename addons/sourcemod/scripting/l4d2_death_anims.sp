@@ -292,7 +292,5 @@ public Action KillObject(Handle iTimer, int iObject)
 public Action DoDeathRagdoll(Handle iTimer, int iCorpse)
 {
 	if (IsValidEntity(iCorpse))
-	{
 		AcceptEntityInput(iCorpse, "BecomeRagdoll"); // BOO! BecomeRagdoll!1
-	}
 }
